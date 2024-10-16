@@ -23,7 +23,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,css,html,sqlite,git,github,docker,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,django,css,html,postgres,git,github,docker,vscode,bash,linux,notion,ps&perline=12" />
   </a>
 </p>
 <br>
