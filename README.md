@@ -10,7 +10,7 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 Estudiante de Ingenieria en sistemas de informacion
+🎓 Estudiante avanzado de la carrera Ingenieria en sistemas de informacion.
 
 💻 Actualmente me encuentro ganando experiencia en el proceso de desarrollo de software.
 
