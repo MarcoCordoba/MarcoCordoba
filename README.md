@@ -13,8 +13,8 @@
 📫 Contacto: **marco.cba2@gmail.com**
 <!--Intro end-->
   </p>
+  
 <br>
-
 <h2>Mis redes</h2>
 <a href="https://www.linkedin.com/in/marco-cordoba-793011172/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/marco_cordoba3/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
