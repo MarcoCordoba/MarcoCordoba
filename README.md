@@ -1,19 +1,16 @@
 <h1 align="center">Hola 👋  soy Marco Cordoba ✨ </h1> 
-
 <p align="left">
 <br>
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
-
 <p align="left">
 🎓 Estudiante avanzado de la carrera Ingenieria en sistemas de informacion.
 
-💻 Desarrollador Full-Stack.
+💻 Desarrollador Full-Stack con experiencia de desarrollo en proyectos personales y academicos, especialmente enfocados en aplicaciones web, utilizando tecnologias como javascript con react y python con django 
 
 📫 Contacto: **marco.cba2@gmail.com**
 <!--Intro end-->
   </p>
-  
 <br>
 <h2>Mis redes</h2>
 <a href="https://www.linkedin.com/in/marco-cordoba-793011172/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
