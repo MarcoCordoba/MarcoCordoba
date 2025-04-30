@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Marco  ✨ </h1> 
+<h1 align="center">Hola 👋  soy Marco Cordoba ✨ </h1> 
 
 <p align="left">
 <br>
@@ -8,7 +8,7 @@
 <p align="left">
 🎓 Estudiante avanzado de la carrera Ingenieria en sistemas de informacion.
 
-💻 Actualmente me encuentro ganando experiencia en el proceso de desarrollo de software.
+💻 Desarrollador Full-Stack.
 
 📫 Contacto: **marco.cba2@gmail.com**
 <!--Intro end-->
